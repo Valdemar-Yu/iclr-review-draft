@@ -1,0 +1,7 @@
+interface:
+  display_name: "ICLR Review Draft"
+  short_description: "Draft human-sounding ICLR reviews."
+  default_prompt: "Use $iclr-review-draft to draft a concise ICLR review from this paper."
+
+policy:
+  allow_implicit_invocation: true
